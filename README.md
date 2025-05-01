@@ -13,7 +13,7 @@ This repository contains the files for a network switching project built using C
 ## Network Topology
 The project is based on a topology consisting of 8 Cisco 2960 switches and 6 PCs. The switches are interconnected using EtherChannel links for redundancy and performance. Edge switches are connected to PCs via access ports.
 
-![Network Topology Diagram](original_image.png) 
+![Network Topology Diagram](Original_image.png) 
 
 *   **SW1:** Configured as the VTP Server.
 *   **SW2-SW8:** Configured as VTP Clients.
